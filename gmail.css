@@ -1,12 +1,12 @@
-#gb {
-    box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.5);
-    position: relative;
-    top: -60px;
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+* {
+    font-family: "Roboto",sans-serif;
 }
 
-#gbqf {
-    min-width: 150px;
-    width: 150px;
+#gb {
+    box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.5);
+    margin-top: -102px;
 }
 
 #gbqfw {
@@ -16,77 +16,82 @@
     width: 20px;
 }
 
-#gbx3 , #gbu {
-    display: nonez;
+#gbqfw button {
+    display: visible;
 }
 
-* {
-    font-family: 'Roboto', san-serif;
-    font-weight: 100;
+#gbx3 {
+    display: none;
+    margin-top: -20px;
 }
 
-.G2 {
-    border-bottom-color: lightgray;
-    border-bottom-style: solid;
-    border-bottom-width: 1px;
-    border-left-color: lightgray;
-    border-left-style: solid;
-    border-left-width: 1px;
-    border-right-color: lightgray;
-    border-right-style: solid;
-    border-right-width: 1px;
-    border-top-color: lightgray;
-    border-top-style: solid;
-    border-top-width: 1px;
-    margin-top: -1px;
-}
-
-.aKm {
-    border-left: 1px solid lightgray;
-}
-
-.aim {
-    margin-top: 2px;
-}
-
-.amr .nr {
-    margin-bottom: 5px;
-}
-
-.apd {
-    padding-bottom: 0px;
-    padding-left: 0px;
-    padding-right: 0px;
-    padding-top: 0px;
-}
-
-.gbem {
-    height: 0px;
-}
-
-.gbqfi {
-    margin: 0px;
-}
-
-.gbtc {
+div.Zs {
     display: none;
 }
 
-.gs , .aoI {
-    padding-right: 5px;
+div.nH.age.apN.lKgBkb {
+    overflow-x: hidden;
 }
 
-.nH .aia {
-    border-left: 1px solid #ccc;
+div.nH.if {
+    min-width: 710px;
+    overflow-x: hidden;
+    width: 80% ;
 }
 
-.no .age {
+span.Di {
+    display: none;
+}
+
+td.Bu.y3 {
+    display: none;
+}
+
+.aim {
+    background: #e5e5e5;
+    margin-bottom: 2px;
+    padding: 3px;
+    margin-left: 16px;
+}
+
+.aj3 {
+    background: #e5e5e5;
+    margin-bottom: 2px;
+    padding: 3px;
+    margin-left: 16px;
+}
+
+.aic {
+    margin-bottom: 2px;
+    padding: 3px;
+    margin-left: 0px;
+}
+
+.z0 .T-I {
+    width: 87%;
+    margin: 0px 12px;
+}
+
+.M3aZbb {
+    margin: 13px;
+}
+
+.pt {
+    padding-top: 7px;
+    padding-right: 7px;
     width: auto;
 }
 
-@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,700);
+.lKgBkb::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+}
 
-div.gbes {
+.nH.age.apP.lKgBkb.apk {
+    width: auto;
+}
+
+.aeO {
     display: none;
 }
 
