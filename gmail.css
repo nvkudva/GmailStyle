@@ -1,0 +1,92 @@
+#gb {
+    box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.5);
+    position: relative;
+    top: -60px;
+}
+
+#gbqf {
+    min-width: 150px;
+    width: 150px;
+}
+
+#gbqfw {
+    margin-left: 600px;
+    margin-top: 66px;
+    position: absolute;
+    width: 20px;
+}
+
+#gbx3 , #gbu {
+    display: nonez;
+}
+
+* {
+    font-family: 'Roboto', san-serif;
+    font-weight: 100;
+}
+
+.G2 {
+    border-bottom-color: lightgray;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: lightgray;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: lightgray;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: lightgray;
+    border-top-style: solid;
+    border-top-width: 1px;
+    margin-top: -1px;
+}
+
+.aKm {
+    border-left: 1px solid lightgray;
+}
+
+.aim {
+    margin-top: 2px;
+}
+
+.amr .nr {
+    margin-bottom: 5px;
+}
+
+.apd {
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+
+.gbem {
+    height: 0px;
+}
+
+.gbqfi {
+    margin: 0px;
+}
+
+.gbtc {
+    display: none;
+}
+
+.gs , .aoI {
+    padding-right: 5px;
+}
+
+.nH .aia {
+    border-left: 1px solid #ccc;
+}
+
+.no .age {
+    width: auto;
+}
+
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,700);
+
+div.gbes {
+    display: none;
+}
+
