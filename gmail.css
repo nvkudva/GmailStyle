@@ -1,19 +1,24 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
+/*scroll space and mail content width fix */
+
+.gb_ib {
+    background: none;
+}
+
+div.nH.age.apP.aZ6.apk.nn {
+    width: auto;
+}
+
+td .nH {
+    margin-right: 0;
+}
+
+/*end
+*/
+
 * {
     font-family: "Roboto",sans-serif;
-}
-
-#gb {
-    box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.5);
-    margin-top: -102px;
-}
-
-#gbqfw {
-    margin-left: 600px;
-    margin-top: 66px;
-    position: absolute;
-    width: 20px;
 }
 
 #gbqfw button {
@@ -36,7 +41,6 @@ div.nH.age.apN.lKgBkb {
 div.nH.if {
     min-width: 710px;
     overflow-x: hidden;
-    width: 80% ;
 }
 
 span.Di {
@@ -68,8 +72,8 @@ td.Bu.y3 {
 }
 
 .z0 .T-I {
-    width: 87%;
-    margin: 0px 12px;
+    width: 90% ;
+    margin: 0px 5px ;
 }
 
 .M3aZbb {
@@ -93,5 +97,18 @@ td.Bu.y3 {
 
 .aeO {
     display: none;
+}
+
+.apP {
+    border-left: 1px solid lightgray;
+}
+
+div.aKm {
+    border-left-width: 1px;
+}
+
+::-webkit-scrollbar {
+    width: 0px ;
+    height: 0px ;
 }
 
